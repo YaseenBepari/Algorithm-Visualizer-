@@ -61,7 +61,7 @@ git clone https://github.com/okaditya84/Algorithm-Visualizer
 ```
 npm install
 ```
-- Run the server
+## Run the server
 ```
 npm start
 ```
@@ -70,3 +70,6 @@ npm start
 ```
 http://localhost:3000/
 ```
+## Feedback
+
+If you have any feedback, please reach out to me at yaseenbepari2002@gmail.com
